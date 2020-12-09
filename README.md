@@ -1,2 +1,2 @@
-#Command_block Skyblock
+# Command_block Skyblock
 **官网公开资源库**
